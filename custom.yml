@@ -20,10 +20,10 @@ packages:
   - wireguard-tools
   - default-settings
   - luci-app-openclash
-  - luci-app-passwall
-  - luci-app-passwall2
-  - luci-app-ssr-mudb-server
-  - luci-app-vssr
+#  - luci-app-passwall
+#  - luci-app-passwall2
+#  - luci-app-ssr-mudb-server
+#  - luci-app-vssr
 
 
 
