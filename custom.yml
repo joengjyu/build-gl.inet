@@ -18,6 +18,8 @@ packages:
   - wireguard
   - luci-app-eqos
   - wireguard-tools
+  - default-settings
+  - luci-app-openclash
 
 
 
